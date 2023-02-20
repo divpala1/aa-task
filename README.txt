@@ -1,6 +1,3 @@
-Submission by: Divyajeet Pala
-Email: divyajeetpala@gmail.com
-
 Program Description
 The python program extracts the article content from the link "https://medium.com/affinityanswers-tech/recruitment-how-not-to-answer-our-take-home-questions-57153d143447" and performs a profanity check for each sentence. As an output the program will print the sentence, and beside it the profanity degree of the sentence ranging from 0 to 1.
 
@@ -24,3 +21,6 @@ WITHOUT virtual environment:
 
 2. Running the program
 - "python solution.py"
+
+Submission by: Divyajeet Pala
+Email: divyajeetpala@gmail.com
